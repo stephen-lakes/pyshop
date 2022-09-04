@@ -8,10 +8,10 @@ react-dojo-blog is a blog application coded in React. The database used is json-
 The application is made for bloggers.
 
 ## Screenshots
-![picture alt](public/1.png "Products Home page")
+![picture alt](public/2.png "Products Home page")
 
 
-![picture alt](public/2.png "Product Details page")
+![picture alt](public/1.png "Product Details page")
 
 
 ![picture alt](public/3.png "Cart")
