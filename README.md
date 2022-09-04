@@ -20,7 +20,6 @@ The application is made for bloggers.
 
 ## How to install and run this project
 1. clone the repo
-2. run `npm install`
-3. run `npm start` to start the development server
-4. run `npx json-server --watch --port 8000`
-
+2. create virtual environment 
+3. run `pip install requirements.txt`
+4. run `python manage.py runserver` to start the development server
