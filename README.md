@@ -1,11 +1,9 @@
 # react-dojo-blog
-react-dojo-blog is a blog application coded in React. The database used is json-server. This application is used for normal blogging purposes and has the following features:-
+pyshop is an ecomerce platform build with python and Django.It uses the sqlite database to store users data and products data.
 
-* Create a blog post
-* View a blog post
-* Delete a blog post
+This application allow users to setup their online store, customers can also add multiple products to cart and checkout when done shopping
 
-The application is made for bloggers.
+The application also features a easy and interactive content managements system that admin/store owners can use to manage their products
 
 ## Screenshots
 ![picture alt](public/pic1.png "Products Home page")
