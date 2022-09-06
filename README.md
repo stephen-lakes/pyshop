@@ -1,4 +1,4 @@
-# react-dojo-blog
+# pyshop
 pyshop is an ecomerce platform build with python and Django.It uses the sqlite database to store users data and products data.
 
 This application allow users to setup their online store, customers can also add multiple products to cart and checkout when done shopping
